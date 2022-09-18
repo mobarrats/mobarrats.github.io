@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
-#footer .social-links a {
+#header .social-links a {
   font-size: 18px;
   display: inline-block;
   background: #212431;
