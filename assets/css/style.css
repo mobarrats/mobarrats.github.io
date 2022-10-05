@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #e86f6f; 
+  background: #bae86f; 
   overflow-y: auto;
 }
 
@@ -164,14 +164,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a i {
-  font-size: 24px;
+  font-size: 64px;
   padding-right: 8px;
   color: black;
 }
 
 .nav-menu a:hover, .nav-menu .active, .nav-menu li:hover > a {
   text-decoration: none;
-  color: #fff;
+  color: #0438c9;
 }
 
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu li:hover > a i {
@@ -402,16 +402,16 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Skills
+# Strengths
 --------------------------------------------------------------*/
-.skills .progress {
+.strengths .progress {
   height: 60px;
   display: block;
   background: none;
   border-radius: 0;
 }
 
-.skills .progress .skill {
+.strengths .progress .strength {
   padding: 0;
   margin: 0 0 6px 0;
   text-transform: uppercase;
@@ -421,24 +421,24 @@ section {
   color: #050d18;
 }
 
-.skills .progress .skill .val {
+.strengths .progress .strength .val {
   float: right;
   font-style: normal;
 }
 
-.skills .progress-bar-wrap {
+.strengths .progress-bar-wrap {
   background: #dce8f8;
   height: 10px;
 }
 
-.skills .progress-bar {
+.strengths .progress-bar {
   width: 1px;
   height: 10px;
   transition: .9s;
   background-color: #149ddd;
 }
 
-.skills-icon{
+.strengths-icon{
   height: 85px;
   width:95px;
   min-width: 85px;
@@ -451,7 +451,7 @@ section {
   font-size: 14px;
 }
 
-.skills-wrap{
+.strengths-wrap{
   flex-wrap: wrap;
 }
 
