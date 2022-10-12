@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a i {
-  font-size: 32px;
+  font-size: 24px;
   padding-right: 8px;
   color: black;
 }
@@ -192,8 +192,8 @@ h1, h2, h3, h4, h5, h6 {
   outline: none !important;
   background-color: #bae86f;
   color: #fff;
-  width: 40px;
-  height: 40px;
+  width: 20px;
+  height: 20px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
