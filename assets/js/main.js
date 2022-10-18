@@ -202,8 +202,8 @@
     speed: 400,
     loop: true,
     autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
+      delay: 12000,
+      disableOnInteraction: true
     },
     pagination: {
       el: '.swiper-pagination',
